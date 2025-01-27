@@ -37,7 +37,7 @@ const HeroSplitSection = () => {
       {/* Right Content */}
       <div className="mt-10 md:mt-0 md:ml-8">
         <img
-          src="./public/Images/hero.png" // Replace with your image path
+          src="./Images/hero.png" // Replace with your image path
           alt="Carbology Product"
           className="w-full"
         />
