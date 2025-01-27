@@ -74,7 +74,7 @@ function Home() {
         {/* Right Content */}
         <div className="mt-10 md:mt-0 md:ml-8">
           <img
-            src="./public/Images/Group.png" // Replace with your image path
+            src="./Images/Group.png" // Replace with your image path
             alt="Carbology Product"
             className="w-full"
           />
@@ -131,7 +131,7 @@ function Home() {
             </div>
             <div className="mt-10 mb-10 md:mt-0 md:ml-8 md:w-1/3 w-full flex justify-center items-center">
               <img
-                src="./public/Icons/Tablet.svg" // Replace with your image path
+                src="./Icons/Tablet.svg" // Replace with your image path
                 alt="Carbology Product"
                 className="md:w-4/5 w-2/3" 
               />
