@@ -1,5 +1,5 @@
 import React from 'react'
-import Banner from '../Banners/banner'
+import Banner from '../Banners/Banner'
 import Cards from '../Cards/Cards'
 import FormComponent from '../Form/Form'
 function Contact() {
