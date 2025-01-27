@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import SubscribeCard from "./subCard";
-import Divider from "./divider";
+import Divider from "./Divider";
 const Footer = () => {
   return (
     <footer className="bg-color-sky-blue text-white py-8 px-4">
