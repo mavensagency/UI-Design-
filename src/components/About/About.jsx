@@ -1,5 +1,5 @@
 import React from 'react'
-import Banner from '../Banners/banner'
+import Banner from '../Banners/Banner'
 import ImageSlider from '../Carousel/ImageSlider'
 import TestimonialSlider from '../Carousel/TestimonialSlider'
 function About() {
