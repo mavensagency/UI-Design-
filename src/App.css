@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "visby-cf", Sans-serif;
+    src: url('./assets/fonts/VisbyCF-Bold\ \(1\).ttf') format('truetype');
+  }
+  body{
+    overflow-x: hidden;
+    font-family: "visby-cf", Sans-serif;
+  }
+
+  html{
+    overflow-x: hidden;
+  }
+  
+  body a {
+    font-family: "visby-cf", Sans-serif;
+    font-style: normal;
+    text-decoration: none;
+ 
+  }
+  .grid-container{
+     max-width: 1140px;
+  }
+
+  
+  .slick-slider .slick-dots li button:before {
+    color: rgb(156, 198, 228) !important; /* Force color override */
+  }
+  
+  .slick-slider .slick-dots li.slick-active button:before {
+    color: rgb(95, 184, 249) !important;
+  }
+  
+  .slick-slider .slick-prev, .slick-slider .slick-next {
+    background-color: rgb(95, 184, 249) !important;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    z-index: 1000;
+  }
+  
+  .slick-slider .slick-prev:hover, .slick-slider .slick-next:hover {
+    background-color: rgb(144, 201, 241) !important;
+  }
+  
+  .slick-slider .slick-prev:before, .slick-slider .slick-next:before {
+    color: white !important;
+    font-size: 20px !important;
+  }
+
+  .slick-slider > div{
+    margin: 0px 10px;
+  }
